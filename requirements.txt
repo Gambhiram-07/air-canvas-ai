@@ -1,0 +1,5 @@
+# Air Canvas AI Dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.9,<=0.10.14
+protobuf<5.0.0
+numpy>=1.24.0
