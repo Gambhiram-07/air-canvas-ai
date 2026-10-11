@@ -156,7 +156,7 @@ Drawings are rendered onto a dedicated black canvas array. Rather than a simple 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DhananjayGharat/air-canvas-ai.git
+git clone https://github.com/Gambhiram-07/air-canvas-ai.git
 cd air-canvas-ai
 ```
 
