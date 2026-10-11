@@ -257,5 +257,7 @@ This project is an educational Computer Vision demonstration developed for learn
 
 ## 👤 Author
 
-**Dhananjay Gharat**
-* GitHub: [@DhananjayGharat](https://github.com/DhananjayGharat)
+**Gambhiram Raj**
+
+- GitHub: [@Gambhiram-07](https://github.com/Gambhiram-07)
+- Project: [Air Canvas AI](https://github.com/Gambhiram-07/air-canvas-ai)
